@@ -1,5 +1,5 @@
 public class IT26101493Lab2Q1 {
-	public static void main (String [] args){
+	public static void main (String[]args){
 		double length, width;
 		double width_ratio=0.75;
 		int perimeter = 100;
